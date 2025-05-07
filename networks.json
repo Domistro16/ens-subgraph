@@ -28,6 +28,35 @@
       "startBlock": 16925608
     }
   },
+  "chapel": {
+    "ENSRegistry": {
+      "address": "0xC33387F371067b1Bdc48E694bf30EDB8deF7d4A0",
+      "startBlock": 51420208
+    },
+    "ENSRegistryOld": {
+      "address": "0xccfC13A115Cc99634eA367AfC98BE9aC27231639",
+      "startBlock": 51420198
+    },
+    "Resolver": {
+      "startBlock": 51420352
+    },
+    "BaseRegistrar": {
+      "address": "0xB4C95f28F762E7B42dCd6E108BB8C7fCf90Cb413",
+      "startBlock": 51420222
+    },
+    "EthRegistrarControllerOld": {
+      "address": "0x256dDfCEbE2a1267AA240480794B6df5c13885e3",
+      "startBlock": 51420310
+    },
+    "EthRegistrarController": {
+      "address": "0x98e9FdF05313A49D95A44ff3563EA3ba05Ce551E",
+      "startBlock": 51420322
+    },
+    "NameWrapper": {
+      "address": "0x501CB529399486684f94c6f59F1b1617202DDE18",
+      "startBlock": 51420282
+    }
+  },
   "goerli": {
     "ENSRegistry": {
       "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
